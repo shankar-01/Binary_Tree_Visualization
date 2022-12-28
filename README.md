@@ -1,5 +1,6 @@
 # Binary_Tree_Visualization
-Binary Search Tree and Balanced Binary Search Tree Visualization
+Binary Search Tree and Balanced Binary Search Tree Visualization<br>
+In this project, I have implemented custom events and event handlers, I have used Binary Search tree and Red-Black tree, and also I have used drawing tools.
 
 ## Commands to run
 compile it with `javac Main.java`<br>
